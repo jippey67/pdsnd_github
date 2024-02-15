@@ -17,5 +17,5 @@ The project uses data from the following files (not included in the GitHub repo)
 * new_york_city.csv
 
 ### Credits
-The project was inspired (and required ;-) ) by the Udacity 'Programming for Data Analys' Nanodegree
+The project was inspired (and required ;-) ) by the Udacity 'Programming for Data Analysis' Nanodegree. 
 
