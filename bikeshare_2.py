@@ -21,7 +21,7 @@ def get_keyboard_input(question_set):
     """
     if DEBUG:
         answer_dict = {
-            'city': 'chicago',
+            'city': 'washington',
             'month': 'mar',
             'day': '4'
         }
