@@ -18,6 +18,7 @@ def get_keyboard_input(question_set):
         city - name of the city to analyze
         month - name of the month to filter by, or "none" to apply no month filter
         day - number of the day of week to filter by, or "none" to apply no day filter
+    - if DEBUG is set to True (line 5) no input is gathered from the keyboard. A default set is used instead
     """
     if DEBUG:
         answer_dict = {
