@@ -5,7 +5,10 @@
 # Bikeshare Data analysis
 
 ### Description
-Describe what your project is about and what it does
+This project analyses the data provided by the sharing of bikes in three cities: Washington, New York City and Chicago. It provides all kinds of interesting measures like:
+* popular routes and stations
+* use by subscribers vs ordinary customer 
+* use by female vd male
 
 ### Files used
 Include the files used
