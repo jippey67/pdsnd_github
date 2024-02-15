@@ -11,8 +11,11 @@ This project analyses the data provided by the sharing of bikes in three cities:
 * use by female vd male
 
 ### Files used
-Include the files used
+The project uses data from the following files (not included in the GitHub repo)
+* chicago.csv
+* washington.csv
+* new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The project was inspired (and required ;-) ) by the Udacity 'Programming for Data Analys' Nanodegree
 
